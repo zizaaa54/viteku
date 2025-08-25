@@ -66,3 +66,16 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.skills i,
+.skills svg {
+  background: #111;       /* background hitam */
+  color: white;           /* warna ikon */
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin: 5px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 24px;
+}
