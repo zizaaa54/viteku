@@ -69,8 +69,8 @@ button:focus-visible {
 
 .skills i,
 .skills svg {
-  background: #111;       /* background hitam */
-  color: white;           /* warna ikon */
+  background: #111;
+  color: white;
   padding: 10px 15px;
   border-radius: 10px;
   margin: 5px;
