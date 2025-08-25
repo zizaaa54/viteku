@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import Home from './pages/Home'
-import goals from './pages/Goals'
+import Goals from './pages/Goals'
 import './App.css'
 
 function App() {
