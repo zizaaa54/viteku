@@ -2,7 +2,7 @@ function Home() {
   return (
     <section className="card">
       <div className="about-content">
-        <img src="src/assets/foto1.jpeg" alt="yoi" className="profile-img" />
+        <img src="/assets/foto1.jpeg" alt="fotoku" className="profile-img"/>
         <div className="text">
           <h2>Tentang saya</h2>
           <p>
