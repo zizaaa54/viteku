@@ -2,7 +2,7 @@ function Goals() {
   return (
     <section className="card">
       <div className="about-content">
-        <img src="/assets/pacarku.jpeg" alt="pacarku" className="profile-img" />
+        <img src="/assets/pacarku.jpeg" alt="iqball" className="profile-img"/>
         <div className="text">
           <h2>Hal yang ingin aku coba</h2>
           <ul>
